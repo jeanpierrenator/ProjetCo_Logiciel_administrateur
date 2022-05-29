@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ToolBarView.qml</file>
+        <file>IconView.qml</file>
+        <file>MyToolTip.qml</file>
+        <file>SensorView.qml</file>
+        <file>ConfigFileView.qml</file>
+        <file>ConfigFileToolBarView.qml</file>
+        <file>TabToolBar.qml</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>Image/plus.png</file>
+        <file>Image/file.png</file>
+        <file>Image/diskette.png</file>
+    </qresource>
+</RCC>
